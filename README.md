@@ -25,3 +25,4 @@ This list contains links to benchmarks and rankings of models, agents and other 
 
 - [OpenRouter Agent Rankings](https://openrouter.ai/apps/category/coding) - Agent rankings by tokens usage
 - [DeepResearch Bench](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard) - The research aims to comprehensively evaluate the capabilities of Deep Research Agents
+- [EmbodiedMemory-Bench](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/) - Evaluates memory-dependent embodied actions across 2,554 AI2-THOR episodes, including visual recall, dynamic state tracking, interaction outcomes, and experience generalization.
