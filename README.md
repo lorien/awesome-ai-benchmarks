@@ -6,6 +6,7 @@ This list contains links to benchmarks and rankings of models, agents and other 
 
 - [Model Benchmarks](#model-benchmarks)
 - [Agent Benchmarks](#agent-benchmarks)
+- [Tools Benchmarks](#tools-benchmarks)
 
 ## Model Benchmarks
 
@@ -25,3 +26,6 @@ This list contains links to benchmarks and rankings of models, agents and other 
 
 - [OpenRouter Agent Rankings](https://openrouter.ai/apps/category/coding) - Agent rankings by tokens usage
 - [DeepResearch Bench](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard) - The research aims to comprehensively evaluate the capabilities of Deep Research Agents
+
+## Tools Benchmarks
+- [Agentic Search Tooling Benchmarks for Leading Local Models](https://local-search-bench.vercel.app/) - The goal: help people understand which agentic search providers work best with the local models they actually run, measured on the attributes that matter: accuracy, cost, and speed.
