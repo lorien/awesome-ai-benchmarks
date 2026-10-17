@@ -29,3 +29,4 @@ This list contains links to benchmarks and rankings of models, agents and other 
 
 ## Tools Benchmarks
 - [Agentic Search Tooling Benchmarks for Leading Local Models](https://local-search-bench.vercel.app/) - The goal: help people understand which agentic search providers work best with the local models they actually run, measured on the attributes that matter: accuracy, cost, and speed.
+- [ATLAS](https://exa.ai/blog/atlas-benchmark) - a benchmark designed to grade the accuracy and completeness of agent responses to challenging real-world workflows that heavily utilize web search
